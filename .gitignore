@@ -1,0 +1,80 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+
+venv/
+env/
+ENV/
+.venv/
+
+# Environment Variables
+
+.env
+
+# Flask
+
+instance/
+.webassets-cache
+
+# VS Code
+
+.vscode/
+
+# PyCharm
+
+.idea/
+
+# Logs
+
+*.log
+logs/
+
+# Database Files
+
+*.db
+*.sqlite
+*.sqlite3
+
+# User Data / Runtime Files
+
+user_states.json
+leads.csv
+student_leads.xlsx
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# Build Files
+
+build/
+dist/
+*.egg-info/
+
+# Testing
+
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Node Modules (if using frontend)
+
+node_modules/
+
+# LocalTunnel / Ngrok Config
+
+.ngrok2/
